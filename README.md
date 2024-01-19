@@ -1,2 +1,2 @@
-# grase (Made By eknvarli)
+# grase (Made By .)
 a 2d game engine from scratch.
